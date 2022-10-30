@@ -64,5 +64,16 @@ Tecla:
 
 - x => Eliminar un carácter
 
+## Guardar
 
+> Asegurar que estas en el modo normal
 
+Tecla:
+
+- esc => Salir a el modo normal
+- :w => Guardar el documento
+
+Ejemplo 2:
+
+- esc => Salir a el modo normal
+- :wq => Guardar el documento y salir 
