@@ -39,6 +39,27 @@ Teclas:
 - e => Moverse al final de la palabra siguiente  
 - b => Moverse al comienzo de la palabra anterior 
 
+# Insertar 
+
+Tecla:
+
+- i => Insertar texto 
+- esc => [Tecla para volver al modo normal]
+
+> Nos coloca el cursor antes del carácter usando **i**
+
+- a => Insertar texto 
+- esc => [Tecla para volver al modo normal]
+
+> Nos coloca el cursor depues del carácter usando **a**
+
+- A => Insertar texto
+- esc => [Tecla para volver al modo normal]
+
+> Nos coloca el cursor al final del renglon usando **A**
+ 
+
+
 
 
 
