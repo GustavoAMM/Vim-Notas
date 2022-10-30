@@ -39,7 +39,7 @@ Teclas:
 - e => Moverse al final de la palabra siguiente  
 - b => Moverse al comienzo de la palabra anterior 
 
-# Insertar 
+## Insertar 
 
 Tecla:
 
@@ -58,8 +58,11 @@ Tecla:
 
 > Nos coloca el cursor al final del renglon usando **A**
  
+## Eliminar
 
+Tecla:
 
+- x => Eliminar un carácter
 
 
 
