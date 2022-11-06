@@ -127,7 +127,26 @@ Para eliminar toda una linea desde la posición del cursor:
 > N -> Te sigues a la anterior coincidencia en el resultado de la busqueda 
 
 
+## Saltar paréntesis 
+
+- % => Te salta a el siguiente o el anterior paréntesis/corchete/llaves
+
+- 0 => comienzo de la linea 
+
+- $ => FInal de la linea 
+
+## Remplazar cadenas
+
+> Asegurar que estamos en el modo normal
+>
+> Para entrar al modo consola 
+
+- :s/palabraParaCabmbiar/nuevaCadena => Remplazar una palabra por otra (Si hay muchas palabras en la linea borra la primera)
+
+- :s/palabraParaCabmbiar/nuevaCadena/g => Remplazar todas las palabras de la linea por un nuevo valor 
+
+- :%s/palabraParaCabmbiar/nuevaCadena/g => Remplazar TODAS las ocurrencias del documento por un nuevo valor sin preguntar
+
+> Sí al final le añadimos una **c** va a ir cambiando palabra por palabra preguntandome
 
  
-
-
