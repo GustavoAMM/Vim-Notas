@@ -123,6 +123,7 @@ Para eliminar toda una linea desde la posición del cursor:
 - / - filtro -> Buscar apartir de la posición del cursor - en nvim va a buscar en todo el texto a diferencia de VIM
 
 > n -> Te sigues a la siguiente coincidencia en el resultado de la busqueda 
+>
 > N -> Te sigues a la anterior coincidencia en el resultado de la busqueda 
 
 
