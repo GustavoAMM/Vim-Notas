@@ -149,4 +149,21 @@ Para eliminar toda una linea desde la posición del cursor:
 
 > Sí al final le añadimos una **c** va a ir cambiando palabra por palabra preguntandome
 
- 
+## Añadir nueva lineas 
+
+- o => abre nueva linea despues del cursor
+
+- O => abre nueva linea antes del cursor 
+
+## Copiar y pegar
+
+> Necesitamo estar en movo visual 
+>
+> Para entrar al modo visual es con **v**
+
+- seleccionamos el texto - y => copiar 
+
+- p => pegar texto previamente seleccionado 
+
+
+
