@@ -99,3 +99,12 @@ Para eliminar toda una linea desde la posición del cursor:
 - d + $ -> (normalmente es shift + 4)
 
 
+## Eliminar lineas y pegarla
+
+- dd - p -> Eliminar linea y pegarla despues del cursor 
+
+- dd - P -> Eliminar linea y pegarl antes del cursor 
+
+
+
+
