@@ -112,4 +112,21 @@ Para eliminar toda una linea desde la posición del cursor:
 - c - i - w => cambiar la palabra sin importar la posición del cursor en la palabra 
 
 
+## Saltar lineas y buscar
+
+- g - g -> Para ir al comienzo del archivo
+
+- G -> Para ir al final del archivo 
+
+- (number) - G -> Para ir a una numero de linea en especifico 
+
+- / - filtro -> Buscar apartir de la posición del cursor - en nvim va a buscar en todo el texto a diferencia de VIM
+
+> n -> Te sigues a la siguiente coincidencia en el resultado de la busqueda 
+> N -> Te sigues a la anterior coincidencia en el resultado de la busqueda 
+
+
+
+ 
+
 
