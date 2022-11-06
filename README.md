@@ -77,3 +77,25 @@ Ejemplo 2:
 
 - esc => Salir a el modo normal
 - :wq => Guardar el documento y salir 
+
+## Eliminar, Undo y Redo
+
+> Asegurar que estamos en el modo normal
+
+Para eliminar las palabras es:
+
+- d - w => (delete word)
+
+Para deshacer cambios: 
+
+- u => (undo)
+
+Para rehacer cambios: 
+
+- ctrl(sostenido) - r => (redo)
+
+Para eliminar toda una linea desde la posición del cursor:
+
+- d + $ -> (normalmente es shift + 4)
+
+
