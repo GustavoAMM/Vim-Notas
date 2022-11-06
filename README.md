@@ -105,6 +105,11 @@ Para eliminar toda una linea desde la posición del cursor:
 
 - dd - P -> Eliminar linea y pegarl antes del cursor 
 
+## Operador de cambio
+
+- r - new_char => remplazar un carácter 
+
+- c - i - w => cambiar la palabra sin importar la posición del cursor en la palabra 
 
 
 
